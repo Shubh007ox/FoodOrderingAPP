@@ -1,0 +1,13 @@
+.warning {
+  height: 100px;
+  width: 600px;
+  position:absolute;
+  right: 0;
+  top: 10%;
+  background-color: brown;
+  font-size: 3rem;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 10px;
+  border-radius: 5px;
+}
